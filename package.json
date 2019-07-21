@@ -17,6 +17,7 @@
     "dist": "npm run build"
   },
   "style": {
+    "width": "100%"
   },
   "dependencies": {
     "element-ui": "2.4.6",
