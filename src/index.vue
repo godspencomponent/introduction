@@ -94,6 +94,7 @@
   .component {
     width 100%
     .comp {
+      width 100%
       padding 8px 16px
       .fd_border {
         border: 1px solid #000;
@@ -104,7 +105,7 @@
         .fd-foreword-left {
           position absolute
           left 0
-          right 0
+          top 0
           img {
             width 18px
             height 18px
