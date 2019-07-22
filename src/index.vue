@@ -93,8 +93,10 @@
 <style lang="stylus" rel="stylesheet/stylus" type="text/stylus" scoped>
   .component {
     width 100%
+    height 110px
     .comp {
       width 100%
+      height 110px
       padding 8px 16px
       .fd_border {
         border: 1px solid #000;

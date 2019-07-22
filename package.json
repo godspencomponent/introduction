@@ -2,7 +2,7 @@
   "name": "introduction",
   "namespace": "Luffy",
   "label": "",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "引言",
   "private": true,
   "keywords": [],
@@ -17,7 +17,8 @@
     "dist": "npm run build"
   },
   "style": {
-    "width": "100%"
+    "width": "100%",
+    "height": "110px"
   },
   "dependencies": {
     "element-ui": "2.4.6",
