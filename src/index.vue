@@ -7,7 +7,12 @@
         </div>
         <div class="comp_quote_1-left-line" v-if="type == 2"></div>
         <div class="fd-foreword-body">
-          <div :class="classObject" class="text" :style="{backgroundColor: baColor,fontSize: font + 'px',color: fontC}">{{content}}</div>
+          <div :class="classObject" class="text" :style="{backgroundColor: baColor,fontSize: font + 'px',color: fontC}">
+            <p v-if="type == 6">
+              <span v-for="(v, i) in content" :key="i">{{v}}</span>
+            </p>
+            <p v-else>{{content}}</p>
+          </div>
         </div>
         <div class="fd-foreword-right" v-if="type == 4">
           <img src="./assets/icon4_bottom.png" alt="" class="">
@@ -70,6 +75,7 @@
           3: require('./assets/icon3.png'),
           4: require('./assets/icon4_top.png'),
           5: require('./assets/icon5.png'),
+          6: require('./assets/icon1.png'),
         }[this.type]
       },
       classObject () {
@@ -104,6 +110,9 @@
       .fd-foreword {
         padding 0 0 0 36px
         position relative
+        p {
+          margin 0
+        }
         .fd-foreword-left {
           position absolute
           left 0
@@ -151,7 +160,9 @@
           padding 8px 0
         }
         .text6 {
-
+          span {
+            background-image: linear-gradient(180deg,transparent 60%,#fff566 0);
+          }
         }
         .imgType5 {
           background-color #000

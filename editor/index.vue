@@ -59,6 +59,9 @@
           },{
             type: 5,
             img: 'https://gw.alipayobjects.com/os/q/cms/images/jnlh46ci/464c75d9-8c5b-4fad-ab2b-b5868d7237d2.cms/images/da4fca2a-046d-43e3-a669-cc653b2d8dec.png?x-oss-process=image/resize,w_560/crop,h_560'
+          },{
+            type: 6,
+            img: 'https://gw.alipayobjects.com/os/q/cms/images/jnlh41g2/1f5a5a3d-e376-4b21-9afa-3794d0c59530.cms/images/62971d54-b849-468f-93e6-fee52a3f464a.png?x-oss-process=image/resize,w_560/crop,h_560'
           }
         ]
       }
