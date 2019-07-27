@@ -46,22 +46,22 @@
         titleStyleMap: [
           {
             type: 1,
-            img: '../src/assets/pic1.png'
+            img: 'https://ymm-maliang.oss-cn-hangzhou.aliyuncs.com/ymm-maliang/resource/ymm_1564212302482.png'
           },{
             type: 2,
-            img: '../src/assets/pic2.png'
+            img: 'https://ymm-maliang.oss-cn-hangzhou.aliyuncs.com/ymm-maliang/resource/ymm_1564212338009.png'
           },{
             type: 3,
-            img: '../src/assets/pic3.png'
+            img: 'https://ymm-maliang.oss-cn-hangzhou.aliyuncs.com/ymm-maliang/resource/ymm_1564212357079.png'
           },{
             type: 4,
-            img: '../src/assets/pic4.png'
+            img: 'https://ymm-maliang.oss-cn-hangzhou.aliyuncs.com/ymm-maliang/resource/ymm_1564212378243.png'
           },{
             type: 5,
-            img: '../src/assets/pic5.png'
+            img: 'https://ymm-maliang.oss-cn-hangzhou.aliyuncs.com/ymm-maliang/resource/ymm_1564212395352.png'
           },{
             type: 6,
-            img: '../src/assets/pic6.png'
+            img: 'https://ymm-maliang.oss-cn-hangzhou.aliyuncs.com/ymm-maliang/resource/ymm_1564212413783.png'
           }
         ]
       }
