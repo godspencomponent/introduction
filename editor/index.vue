@@ -46,22 +46,22 @@
         titleStyleMap: [
           {
             type: 1,
-            img: 'https://gw.alipayobjects.com/os/q/cms/images/jnlh8d66/e28ad88e-48a1-4c2a-af63-d24f3443d8cd.cms/images/fff86f5d-e206-4ffb-8d8a-a8df90207242.png?x-oss-process=image/resize,w_560/crop,h_560'
+            img: '../src/assets/pic1.png'
           },{
             type: 2,
-            img: 'https://gw.alipayobjects.com/os/q/cms/images/jnlh85i0/fb89e9e1-9bbf-4052-9f01-ebab6e6cdf77.cms/images/96c50b7a-fb2b-4950-bcdc-8aca26498319.png?x-oss-process=image/resize,w_560/crop,h_560'
+            img: '../src/assets/pic2.png'
           },{
             type: 3,
-            img: 'https://gw.alipayobjects.com/os/q/cms/images/jnlh4gn0/c6a4c09d-5820-45bd-847e-80ed80157070.cms/images/997a825b-28ad-493b-ad2c-6829e0f08711.png?x-oss-process=image/resize,w_560/crop,h_560'
+            img: '../src/assets/pic3.png'
           },{
             type: 4,
-            img: 'https://gw.alipayobjects.com/os/q/cms/images/jnlh4b9s/61a76512-cfab-4af4-8999-4de4b8d80ecb.cms/images/a9e8f44e-20a5-45f4-9a9b-994a94c21f1a.png?x-oss-process=image/resize,w_560/crop,h_560'
+            img: '../src/assets/pic4.png'
           },{
             type: 5,
-            img: 'https://gw.alipayobjects.com/os/q/cms/images/jnlh46ci/464c75d9-8c5b-4fad-ab2b-b5868d7237d2.cms/images/da4fca2a-046d-43e3-a669-cc653b2d8dec.png?x-oss-process=image/resize,w_560/crop,h_560'
+            img: '../src/assets/pic5.png'
           },{
             type: 6,
-            img: 'https://gw.alipayobjects.com/os/q/cms/images/jnlh41g2/1f5a5a3d-e376-4b21-9afa-3794d0c59530.cms/images/62971d54-b849-468f-93e6-fee52a3f464a.png?x-oss-process=image/resize,w_560/crop,h_560'
+            img: '../src/assets/pic6.png'
           }
         ]
       }

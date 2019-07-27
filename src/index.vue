@@ -40,7 +40,7 @@
       },
       content: {
         type: String,
-        default: '云凤蝶的文化：客户第一，追求极致，勇于创新，开放共赢 / 云凤蝶的品牌定位：丰富、简单、个性、开放。',
+        default: '码良是一个在线生成h5页面并提供页面管理和页面编辑的平台。用户无需掌握复杂的编程技术，通过简单拖拽、少量配置即可制作精美的页面，可用于营销场景下的页面制作',
         editer: {
           ignore: true // 忽略，码良基础在编辑器中不显示
         }
@@ -108,7 +108,7 @@
         border: 1px solid #000;
       }
       .fd-foreword {
-        padding 0 0 0 36px
+        padding 0 10px 0 36px
         position relative
         p {
           margin 0
@@ -145,7 +145,7 @@
         }
         .text1 {
           display: block;
-          padding: 8px 12px;
+          padding: 8px 9px;
           color: #999;
           background: #f7f7f7;
         }
