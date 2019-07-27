@@ -103,6 +103,7 @@ export default {
       componentProps: {
         type: 1,
         baColor: '',
+        content: '码良是一个在线生成h5页面并提供页面管理和页面编辑的平台。用户无需掌握复杂的编程技术，通过简单拖拽、少量配置即可制作精美的页面，可用于营销场景下的页面制作',
         font: '14'
       },
     }
