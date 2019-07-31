@@ -2,13 +2,13 @@
   "name": "introduction",
   "namespace": "Luffy",
   "label": "",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "引言",
   "private": true,
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "git@github.com:godspencomponent/introduction.git"
+    "url": "https://github.com/godspencomponent/introduction"
   },
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --inline --progress",
