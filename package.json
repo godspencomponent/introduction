@@ -1,7 +1,6 @@
 {
   "name": "introduction",
-  "namespace": "Luffy",
-  "label": "",
+  "label": "引言",
   "version": "1.1.4",
   "description": "引言",
   "private": true,
